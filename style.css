@@ -383,7 +383,7 @@ position: absolute;
     font-size: 14px;
 }
 #page6{
-  height: 220vh;
+  height: 250vh;
   width: 100%;
   position: relative;
   background-color: #03364F;
@@ -473,7 +473,7 @@ font-weight: 500;
 .p6_img:nth-last-child(2){
   
   position: absolute;
-  left: 45%;
+  left: 40%;
   top: 37%;
 }
 #page6 #svg6 {
