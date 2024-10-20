@@ -271,8 +271,8 @@ gsap.to("#page6 h2 span", {
       scrub: 2,
     },
   });
-  var h2Data = document.querySelectorAll("#page7 h2");
-  h2Data.forEach(function (elem) {
+  var h2Data7 = document.querySelectorAll("#page7 h2");
+  h2Data7.forEach(function (elem) {
     var textData = elem.textContent;
     var splitedText = textData.split("");
     var clutter = "";
